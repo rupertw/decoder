@@ -1,7 +1,7 @@
 # decoder
 此项目是学习jdk spi的示例项目。
 
-内容为将文本格式化数据Decode成String[]，项目描述：
+内容为将文本格式化数据Decode成String[]，项目模块：
 
 * **decoder-service**: decode服务定义
 * **decoder-csv**: Comma-separated value decode
