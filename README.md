@@ -10,4 +10,4 @@
 
 参考： [Developing a Service Provider using Java API(Service Provider Interface)](http://blog.csdn.net/fenglibing/article/details/7083526)
    
-   　　　[ServiceLoader (Java Platform SE 6)](http://docs.oracle.com/javase/6/docs/api/java/util/ServiceLoader.html)
+   　　　 [ServiceLoader (Java Platform SE 6)](http://docs.oracle.com/javase/6/docs/api/java/util/ServiceLoader.html)
