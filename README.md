@@ -1,10 +1,12 @@
 # decoder
-Dubbo is a distributed, high performance RPC framework which empowers applications with service import/export capabilities.
+此项目是学习jdk spi的示例项目。
 
-It contains three key parts, which include:
+内容为将文本格式化数据Decode成String[]，项目描述：
 
-* **Remoting**: a network communication framework providing sync-over-async and request-response messaging.
-* **Clustering**: a remote procedure call abstraction with load-balancing/failover/clustering capabilities.
-* **Registration**: a service directory framework for service registration and service event publish/subscription
+* **decoder-service**: decode服务定义
+* **decoder-csv**: Comma-separated value decode
+* **decoder-tsv**: Tab-separated value decode
+* **decoder-app**: 测试app（打包为可执行jar）
 
-For more details, please refer to [dubbo.io](http://dubbo.io).
+参考： [Developing a Service Provider using Java API(Service Provider Interface)](http://blog.csdn.net/fenglibing/article/details/7083526).
+      [ServiceLoader (Java Platform SE 6)](http://docs.oracle.com/javase/6/docs/api/java/util/ServiceLoader.html)
